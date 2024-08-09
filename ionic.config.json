@@ -1,0 +1,7 @@
+{
+  "name": "bug_ion-item_click_2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
